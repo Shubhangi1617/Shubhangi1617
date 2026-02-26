@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on [Import/Export Website](frtpe.com)
 
-- 🌱 I’m currently learning **UX , UI**
+- 🌱 I’m currently learning **Agentic AI**
 
-- 💬 Ask me about **Html , CSS , JS**
+- 💬 Ask me about **Design theory and principles**
 
 - 📫 How to reach me **tatheshubhangi16@gmail.com**
 
