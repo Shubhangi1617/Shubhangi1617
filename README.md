@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shubhangi Tathe</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full-Stack Web & Android Developer | UI/UX & Creative Design Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhangi1617&label=Profile%20views&color=0e75b6&style=flat" alt="shubhangi1617" /> </p>
 
