@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhangi1617&label=Profile%20views&color=0e75b6&style=flat" alt="shubhangi1617" /> </p>
 
-- 🔭 I’m currently working on [Import/Export Website](frtpe.com)
+- 🔭 I’m currently working with frtpe.com
 
 - 🌱 I’m currently learning **Agentic AI**
 
