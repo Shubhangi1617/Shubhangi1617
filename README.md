@@ -1,5 +1,5 @@
 
-![logo](https://github.com/Shubhangi1617/Shubhangi1617/blob/main/Design.png
+![logo](https://github.com/Shubhangi1617/Shubhangi1617/blob/main/design_final.png
 )
 
 
