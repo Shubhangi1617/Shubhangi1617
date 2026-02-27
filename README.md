@@ -14,8 +14,6 @@ Designer who codes • Exploring AI • Building thoughtful digital products
 
 ## 💜 About Me
 
-Hi! I'm Shubhangi 👋  
-
 I enjoy designing clean user experiences and turning them into working systems.  
 I believe good design should feel simple, and good technology should feel natural.
 
