@@ -1,103 +1,138 @@
 <img src="https://github.com/Shubhangi1617/Shubhangi1617/blob/main/design_final.png" width="100%" />
 
-<h1 align="center">Hi 👋 I'm Shubhangi Tathe</h1>
 
-<h3 align="center">
-🎨 Designer Who Codes | 🤖 AI-Focused Full Stack Engineer | 🏢 Corporate-Ready Product Builder
-</h3>
+
+<!-- 🌈 Custom SVG Gradient Banner -->
 
 <p align="center">
-I design intuitive systems and engineer scalable digital products.  
-Blending UI/UX thinking with backend logic, I build solutions that are not just functional — but meaningful.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ecf,50:a18cd1,100:8ec5fc&height=220&section=header&text=Shubhangi%20Tathe&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- 🎥 Animated Typing Intro -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=E75480&center=true&vCenter=true&lines=Designer+Who+Codes;AI+Enthusiast;Full+Stack+Developer;Building+with+Creativity+%26+Logic" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 💜 About Me
 
-- 🏢 Targeting Corporate IT & AI-driven product roles
-- 🎨 Strong foundation in UI/UX systems & design principles
-- 🤖 Currently exploring **Agentic AI & Intelligent Workflows**
-- 📱 Full-stack experience across Web & Android
-- 💡 I believe design is strategy — not decoration
+Hi! I'm Shubhangi 👋  
 
----
+I enjoy designing clean user experiences and turning them into working systems.  
+I believe good design should feel simple, and good technology should feel natural.
 
-## 🧠 What I Build
-
-✔ AI-powered evaluation systems  
-✔ Cross-platform mobile apps  
-✔ SaaS-based RFQ workflows  
-✔ UX-driven enterprise dashboards  
-✔ Scalable backend architectures  
+I'm especially interested in:
+- 🎨 UI/UX & creative digital design  
+- 🤖 AI-powered systems  
+- 🏢 Corporate IT solutions  
+- 📱 Web & mobile applications  
 
 ---
 
-## 🌟 Featured Projects
-
-### 🎓 EduCheck – AI Evaluation Engine
-AI-powered system for automated student assessment and scoring.  
-**Stack:** Flask • MySQL • Bootstrap  
-Designed to simulate intelligent answer evaluation workflows.
+🧩
 
 ---
 
-### 📱 PubX – Business Promotion Platform
-Built using FlutterFlow & Firebase.  
-A mobile-first digital visibility platform for local businesses.  
-Focused on UX clarity, accessibility, and real-time data sync.
+## 🚀 Featured Projects
+
+### 🎓 EduCheck  
+An AI-based student evaluation system built using Flask and MySQL.  
+Created to explore how intelligent grading systems can support educators.
 
 ---
 
-### 🧾 RFQ Management System
-A structured Request-for-Quotation workflow platform.  
-Designed to streamline vendor communication and internal approvals.  
-Built with scalable architecture thinking.
+### 📱 PubX  
+A business promotion platform built with FlutterFlow and Firebase.  
+Focused on simple design, real-time data, and smooth mobile experience.
 
 ---
 
-## 🛠 Tech Stack
-
-### 🎨 Design
-Figma • Adobe Illustrator • Photoshop • UX Research • Design Systems
-
-### 💻 Frontend
-HTML5 • CSS3 • Bootstrap • Angular • JavaScript
-
-### ⚙ Backend
-Node.js • Express • Flask • .NET
-
-### 🗄 Database
-MySQL • MongoDB • Firebase • Oracle
-
-### 📱 Mobile
-Android • Flutter
+### 🧾 RFQ Workflow System  
+A structured quotation management system designed to organize vendor communication and internal approvals.
 
 ---
 
-## 📈 GitHub Analytics
+🧩
+
+---
+
+## 🎯 Currently Building in Public
+
+- 🤖 Learning and experimenting with Agentic AI  
+- 🎨 Improving my UI system thinking  
+- ⚙️ Exploring better backend architecture patterns  
+- ✍ Writing about design and development  
+
+---
+
+🧩
+
+---
+
+## 🛠 Tools I Work With
+
+**Design:**  
+Figma • Illustrator • Photoshop  
+
+**Frontend:**  
+HTML • CSS • Bootstrap • Angular • JavaScript  
+
+**Backend:**  
+Node.js • Express • Flask • .NET  
+
+**Database:**  
+MySQL • MongoDB • Firebase  
+
+**Mobile:**  
+Android • Flutter  
+
+---
+
+🧩
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhangi1617&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhangi1617&theme=tokyonight&ring=ff9ecf&fire=a18cd1&currStreakLabel=ff9ecf" />
 </p>
 
 ---
 
-## 💡 My Engineering Philosophy
+<!-- 🐍 Contribution Snake -->
 
-> Great products are built at the intersection of logic and empathy.  
-> I don’t just develop applications —  
-> I design systems that think, scale, and solve real-world problems.
+<p align="center">
+  <img src="https://github.com/shubhangi1617/shubhangi1617/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 📫 Let's Connect
+## 🌸 My Approach
+
+I like building at the place where creativity and technology come together.  
+For me, design is not decoration — it’s clarity.  
+And development is not just coding — it’s problem solving.
+
+---
+
+## 📫 Let’s Connect
 
 📧 tatheshubhangi16@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/shubhangitathe  
-🎨 Behance: https://www.behance.net/shubhangitathe  
-✍ Medium: https://medium.com/@shubhangitathe  
+🔗 LinkedIn: linkedin.com/in/shubhangitathe  
+🎨 Behance: behance.net/shubhangitathe  
+✍ Medium: medium.com/@shubhangitathe  
 
 ---
 
-⭐ *Open to AI-focused product engineering & UI/UX innovation roles.*
+<p align="center">
+  Thank you for visiting my profile 💜
+</p>
+
+<!-- 🌈 Footer Wave -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ecf,50:a18cd1,100:8ec5fc&height=120&section=footer"/>
+</p>
