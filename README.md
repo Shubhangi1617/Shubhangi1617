@@ -1,20 +1,16 @@
-<img src="https://github.com/Shubhangi1617/Shubhangi1617/blob/main/design_final.png" width="100%" />
-
-
-
-<!-- 🌈 Custom SVG Gradient Banner -->
+<!-- 🌸 Banner -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ecf,50:a18cd1,100:8ec5fc&height=220&section=header&text=Shubhangi%20Tathe&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://github.com/Shubhangi1617/Shubhangi1617/blob/main/design_final.png" width="100%" />
 </p>
 
-<!-- 🎥 Animated Typing Intro -->
+<h2 align="center">Hi, I'm Shubhangi 👋</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E75480&center=true&vCenter=true&lines=Designer+Who+Codes;AI+Enthusiast;Full+Stack+Developer;Building+with+Creativity+%26+Logic" />
+Designer who codes • Exploring AI • Building thoughtful digital products
 </p>
 
----
+<br>
 
 ## 💜 About Me
 
@@ -24,115 +20,83 @@ I enjoy designing clean user experiences and turning them into working systems.
 I believe good design should feel simple, and good technology should feel natural.
 
 I'm especially interested in:
-- 🎨 UI/UX & creative digital design  
-- 🤖 AI-powered systems  
-- 🏢 Corporate IT solutions  
-- 📱 Web & mobile applications  
+- UI/UX & creative digital design  
+- AI-powered systems  
+- Corporate IT solutions  
+- Web & mobile applications  
 
----
+<br>
 
-🧩
+## 🌷 What I’m Working On
 
----
+Right now, I’m:
+- Learning and experimenting with Agentic AI  
+- Improving how I design scalable systems  
+- Building projects that combine clarity with logic  
+- Growing as both a designer and an engineer  
 
-## 🚀 Featured Projects
+<br>
 
-### 🎓 EduCheck  
+## 🌼 Selected Projects
+
+### EduCheck  
 An AI-based student evaluation system built using Flask and MySQL.  
 Created to explore how intelligent grading systems can support educators.
 
----
-
-### 📱 PubX  
+### PubX  
 A business promotion platform built with FlutterFlow and Firebase.  
-Focused on simple design, real-time data, and smooth mobile experience.
+Focused on clarity, accessibility, and real-time experience.
 
----
+### RFQ Workflow System  
+A structured quotation management platform designed to organize vendor communication and approval processes.
 
-### 🧾 RFQ Workflow System  
-A structured quotation management system designed to organize vendor communication and internal approvals.
+<br>
 
----
+## 🌸 Tools I Work With
 
-🧩
-
----
-
-## 🎯 Currently Building in Public
-
-- 🤖 Learning and experimenting with Agentic AI  
-- 🎨 Improving my UI system thinking  
-- ⚙️ Exploring better backend architecture patterns  
-- ✍ Writing about design and development  
-
----
-
-🧩
-
----
-
-## 🛠 Tools I Work With
-
-**Design:**  
+**Design**  
 Figma • Illustrator • Photoshop  
 
-**Frontend:**  
+**Frontend**  
 HTML • CSS • Bootstrap • Angular • JavaScript  
 
-**Backend:**  
+**Backend**  
 Node.js • Express • Flask • .NET  
 
-**Database:**  
+**Database**  
 MySQL • MongoDB • Firebase  
 
-**Mobile:**  
+**Mobile**  
 Android • Flutter  
 
----
+<br>
 
-🧩
+## 🌿 My Approach
 
----
+I like building where creativity meets logic.  
+For me, design is about clarity.  
+Development is about solving real problems.  
+And technology should always feel human.
+
+<br>
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhangi1617&theme=tokyonight&ring=ff9ecf&fire=a18cd1&currStreakLabel=ff9ecf" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhangi1617&theme=tokyonight" />
 </p>
 
----
-
-<!-- 🐍 Contribution Snake -->
-
-<p align="center">
-  <img src="https://github.com/shubhangi1617/shubhangi1617/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🌸 My Approach
-
-I like building at the place where creativity and technology come together.  
-For me, design is not decoration — it’s clarity.  
-And development is not just coding — it’s problem solving.
-
----
+<br>
 
 ## 📫 Let’s Connect
 
-📧 tatheshubhangi16@gmail.com  
-🔗 LinkedIn: linkedin.com/in/shubhangitathe  
-🎨 Behance: behance.net/shubhangitathe  
-✍ Medium: medium.com/@shubhangitathe  
+Email: tatheshubhangi16@gmail.com  
+LinkedIn: linkedin.com/in/shubhangitathe  
+Behance: behance.net/shubhangitathe  
+Medium: medium.com/@shubhangitathe  
 
----
+<br>
 
 <p align="center">
   Thank you for visiting my profile 💜
-</p>
-
-<!-- 🌈 Footer Wave -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ecf,50:a18cd1,100:8ec5fc&height=120&section=footer"/>
 </p>
