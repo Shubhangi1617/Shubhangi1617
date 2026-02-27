@@ -1,54 +1,103 @@
+<img src="https://github.com/Shubhangi1617/Shubhangi1617/blob/main/design_final.png" width="100%" />
 
-![logo](https://github.com/Shubhangi1617/Shubhangi1617/blob/main/design_final.png
-)
+<h1 align="center">Hi 👋 I'm Shubhangi Tathe</h1>
 
+<h3 align="center">
+🎨 Designer Who Codes | 🤖 AI-Focused Full Stack Engineer | 🏢 Corporate-Ready Product Builder
+</h3>
 
-
-<h1 align="center">Hi 👋, I'm Shubhangi Tathe</h1>
-<h3 align="center">Full-Stack Web & Android Developer | UI/UX & Creative Design Specialist</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhangi1617&label=Profile%20views&color=0e75b6&style=flat" alt="shubhangi1617" /> </p>
-
-- 🔭 I’m currently working with (frtpe.com)
-
-- 🌱 I’m currently learning **Agentic AI**
-
-- 💬 Ask me about **Design theory and principles**
-
-- 📫 How to reach me **tatheshubhangi16@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shubhangitathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhangitathe" height="30" width="40" /></a>
-<a href="https://instagram.com/happykudi16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="happykudi16" height="30" width="40" /></a>
-<a href="https://www.behance.net/shubhangitathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shubhangitathe" height="30" width="40" /></a>
-<a href="https://medium.com/@shubhangitathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubhangitathe" height="30" width="40" /></a>
+<p align="center">
+I design intuitive systems and engineer scalable digital products.  
+Blending UI/UX thinking with backend logic, I build solutions that are not just functional — but meaningful.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-                    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-                          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-                              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-                                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-                                      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-                                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-                                        
+---
 
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhangi1617&" alt="shubhangi1617" /></p>
+- 🏢 Targeting Corporate IT & AI-driven product roles
+- 🎨 Strong foundation in UI/UX systems & design principles
+- 🤖 Currently exploring **Agentic AI & Intelligent Workflows**
+- 📱 Full-stack experience across Web & Android
+- 💡 I believe design is strategy — not decoration
+
+---
+
+## 🧠 What I Build
+
+✔ AI-powered evaluation systems  
+✔ Cross-platform mobile apps  
+✔ SaaS-based RFQ workflows  
+✔ UX-driven enterprise dashboards  
+✔ Scalable backend architectures  
+
+---
+
+## 🌟 Featured Projects
+
+### 🎓 EduCheck – AI Evaluation Engine
+AI-powered system for automated student assessment and scoring.  
+**Stack:** Flask • MySQL • Bootstrap  
+Designed to simulate intelligent answer evaluation workflows.
+
+---
+
+### 📱 PubX – Business Promotion Platform
+Built using FlutterFlow & Firebase.  
+A mobile-first digital visibility platform for local businesses.  
+Focused on UX clarity, accessibility, and real-time data sync.
+
+---
+
+### 🧾 RFQ Management System
+A structured Request-for-Quotation workflow platform.  
+Designed to streamline vendor communication and internal approvals.  
+Built with scalable architecture thinking.
+
+---
+
+## 🛠 Tech Stack
+
+### 🎨 Design
+Figma • Adobe Illustrator • Photoshop • UX Research • Design Systems
+
+### 💻 Frontend
+HTML5 • CSS3 • Bootstrap • Angular • JavaScript
+
+### ⚙ Backend
+Node.js • Express • Flask • .NET
+
+### 🗄 Database
+MySQL • MongoDB • Firebase • Oracle
+
+### 📱 Mobile
+Android • Flutter
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhangi1617&theme=tokyonight" />
+</p>
+
+---
+
+## 💡 My Engineering Philosophy
+
+> Great products are built at the intersection of logic and empathy.  
+> I don’t just develop applications —  
+> I design systems that think, scale, and solve real-world problems.
+
+---
+
+## 📫 Let's Connect
+
+📧 tatheshubhangi16@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/shubhangitathe  
+🎨 Behance: https://www.behance.net/shubhangitathe  
+✍ Medium: https://medium.com/@shubhangitathe  
+
+---
+
+⭐ *Open to AI-focused product engineering & UI/UX innovation roles.*
